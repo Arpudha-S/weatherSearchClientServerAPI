@@ -8,7 +8,9 @@ Winsocket32 - Establishes communication between client and the server
 
 ## Front End
 Communication takes place between the client and the server.\
+
 ![](Screenshots/winsoconnec.png)
 
 Splay tree insertion and searching is done along with warning display.\
+
 ![](Screenshots/splayrotop.png)
